@@ -11,14 +11,14 @@ At the core of this architecture is the *Nokia Altiplano Manager*, which functio
 ## Architecture Overview:
 
 The solution is composed of four primary components:
-- [Nokia Altiplano Manager] (xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-manager)
+- [Nokia Altiplano Manager](xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-manager)
 
-- [Nokia Altiplano REST Interface] (xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-rest-interface)
+- [Nokia Altiplano REST Interface](xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-rest-interface)
 
-- [Nokia Altiplano Kafka Analyzer] (xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-kafka-analyzer)
+- [Nokia Altiplano Kafka Analyzer](xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-kafka-analyzer)
 
-- [Nokia Altiplano OLT] (xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-olt)
+- [Nokia Altiplano OLT](xref:Nokia_Altiplano_Solution_Components#nokia-altiplano-olt)
 
 
 > [!IMPORTANT]
-> Before installing this solution, ensure that you meet all [prerequisites](xref:Nokia_Altiplano_Solution_Installation#prerequisites).
+> Before installing this solution, ensure that you meet all [prerequisites](xref:Nokia_Altiplano_Solution_Installation.md#prerequisites).

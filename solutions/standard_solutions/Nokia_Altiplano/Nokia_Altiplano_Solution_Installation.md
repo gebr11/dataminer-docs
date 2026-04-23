@@ -10,9 +10,9 @@ Before installing the Nokia Altiplano Solition, ensure that the following requir
 
 - The DataMiner version installed must be *Main Release 10.6.0.0 – 16985 CU1* or a more recent release.
 
-- [Install the **Nokia Altiplano** solution](#installing-the-nokia-altiplano-solution).
+- [Install the **Nokia Altiplano** solution](xref:#installing-the-nokia-altiplano-solution).
 
-- Perform the [Initial Configuration Requirements](#initial-configuration-requirements).
+- Perform the [Initial Configuration Requirements](xref:#initial-configuration-requirements).
 
 ## Install the Nokia Altiplano solution
 
@@ -43,7 +43,7 @@ Before operating the Nokia Altiplano Solution, several configuration steps must 
 
 To establish communication with the Altiplano API, credentials must be configured for the REST Interface. 
 
-Refer to the [Nokia Altiplano REST Interface - Initialization Section] (https://docs.dataminer.services/connector/doc/Nokia_Altiplano_REST_Interface_Technical.html) for detailed instructions.
+Refer to the [Nokia Altiplano REST Interface - Initialization](https://docs.dataminer.services/connector/doc/Nokia_Altiplano_REST_Interface_Technical.html) section for detailed instructions.
 
 ### Configure Import/Export Settings
 

@@ -22,7 +22,7 @@ The **Nokia Altiplano Manager** serves as the central orchestrator of the soluti
 
 - Manages assigned Optical Line Terminals (OLTs).
 
-For further details, refer to the official [connector documentation] (https://docs.dataminer.services/connector/doc/Nokia_Altiplano_Manager.html)
+For further details, refer to the official [connector documentation](https://docs.dataminer.services/connector/doc/Nokia_Altiplano_Manager.html)
 
 ## Nokia Altiplano REST Interface
 
@@ -32,7 +32,7 @@ The **Nokia Altiplano REST Interface** is responsible for executing REST API req
 - Retrieving API data and storing it in files for each executed request.
 - Allowing multiple elements to be created to distribute request loads, while respecting vendor-imposed request limits.
 
-For further details, refer to the official [connector documentation] (https://docs.dataminer.services/connector/doc/Nokia_Altiplano_REST_Interface.html)
+For further details, refer to the official [connector documentation](https://docs.dataminer.services/connector/doc/Nokia_Altiplano_REST_Interface.html)
 
 ## Nokia Altiplano Kafka Analyzer
 
@@ -46,7 +46,7 @@ The **Nokia Altiplano Kafka Analyzer** processes Kafka files and performs the fo
 
 - Supports multiple elements to distribute the file processing workload.
 
-For further details, refer to the official [connector documentation] (http://docs.dataminer.services/connector/doc/Nokia_Altiplano_Kafka_Analyzer.html)
+For further details, refer to the official [connector documentation](http://docs.dataminer.services/connector/doc/Nokia_Altiplano_Kafka_Analyzer.html)
 
 ## Nokia Altiplano OLT
 
@@ -58,4 +58,4 @@ The **Nokia Atiplano OLT** consolidates all REST API and Kafka information into 
 
 - Providing monitoring capabilities across all OLT-related information.
 
-For further details, refer to the official [connector documentation] (https://docs.dataminer.services/connector/doc/Nokia_Altiplano_OLT.html)
+For further details, refer to the official [connector documentation](https://docs.dataminer.services/connector/doc/Nokia_Altiplano_OLT.html)
